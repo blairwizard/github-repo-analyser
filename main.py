@@ -1,6 +1,7 @@
 import requests
 import json
 import os
+os.makedirs("cache",exist_ok=True)
 username=os.getenv("GITHUB_USERNAME")
 if not username:
     username=input("Enter username:")
