@@ -11,4 +11,4 @@ See the generated analysis here: [report.md](report.md)
 
 ## How to run
 ```bash
-python tester.py
+python main.py
