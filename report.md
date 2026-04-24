@@ -1,6 +1,6 @@
 # GitHub Repository Report for blairwizard
 
-Total repositories: 6
+Total repositories: 7
 
 ## code-profiler
 - ⭐ Stars: 0
@@ -15,7 +15,7 @@ Total repositories: 6
 - ⭐ Stars: 1
 - 🍴 Forks: 0
 - 🧠 Major Language: Python
-- 🕒 Updated: 2026-04-22T01:49:35Z
+- 🕒 Updated: 2026-04-23T01:53:00Z
 - 🔗 URL: https://github.com/blairwizard/github-repo-analyser
 - Top Languages:
   - Python: 2332 bytes
@@ -60,6 +60,15 @@ Total repositories: 6
 - Top Languages:
   - Python: 5159 bytes
 
+## XOR-FIle-Cipher
+- ⭐ Stars: 1
+- 🍴 Forks: 0
+- 🧠 Major Language: C
+- 🕒 Updated: 2026-04-23T09:05:20Z
+- 🔗 URL: https://github.com/blairwizard/XOR-FIle-Cipher
+- Top Languages:
+  - C: 2141 bytes
+
 
 # Summary
-- Total stars across all repos: 1
+- Total stars across all repos: 2
