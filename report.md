@@ -1,6 +1,6 @@
 # GitHub Repository Report for blairwizard
 
-Total repositories: 8
+Total repositories: 9
 
 ## code-profiler
 - ⭐ Stars: 0
@@ -15,7 +15,7 @@ Total repositories: 8
 - ⭐ Stars: 1
 - 🍴 Forks: 0
 - 🧠 Major Language: Python
-- 🕒 Updated: 2026-06-05T02:37:25Z
+- 🕒 Updated: 2026-06-06T02:25:56Z
 - 🔗 URL: https://github.com/blairwizard/github-repo-analyser
 - Top Languages:
   - Python: 2332 bytes
@@ -41,6 +41,15 @@ Total repositories: 8
 - 🔗 URL: https://github.com/blairwizard/mycalc
 - Top Languages:
   - C: 3780 bytes
+
+## myshell
+- ⭐ Stars: 1
+- 🍴 Forks: 0
+- 🧠 Major Language: C
+- 🕒 Updated: 2026-06-06T18:10:04Z
+- 🔗 URL: https://github.com/blairwizard/myshell
+- Top Languages:
+  - C: 3012 bytes
 
 ## snake-pygame
 - ⭐ Stars: 0
@@ -80,4 +89,4 @@ Total repositories: 8
 
 
 # Summary
-- Total stars across all repos: 3
+- Total stars across all repos: 4
