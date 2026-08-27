@@ -15,7 +15,7 @@ Total repositories: 10
 - ⭐ Stars: 1
 - 🍴 Forks: 0
 - 🧠 Major Language: Python
-- 🕒 Updated: 2026-08-25T00:44:38Z
+- 🕒 Updated: 2026-08-26T00:45:54Z
 - 🔗 URL: https://github.com/blairwizard/github-repo-analyser
 - Top Languages:
   - Python: 2332 bytes
@@ -54,10 +54,12 @@ Total repositories: 10
 ## raven
 - ⭐ Stars: 0
 - 🍴 Forks: 0
-- 🧠 Major Language: Not specified
-- 🕒 Updated: 2026-08-25T10:08:43Z
+- 🧠 Major Language: C
+- 🕒 Updated: 2026-08-26T04:58:33Z
 - 🔗 URL: https://github.com/blairwizard/raven
 - Top Languages:
+  - C: 9762 bytes
+  - Makefile: 512 bytes
 
 ## snake-pygame
 - ⭐ Stars: 0
