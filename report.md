@@ -1,6 +1,6 @@
 # GitHub Repository Report for blairwizard
 
-Total repositories: 12
+Total repositories: 13
 
 ## c-autograd
 - ⭐ Stars: 0
@@ -24,7 +24,7 @@ Total repositories: 12
 - ⭐ Stars: 1
 - 🍴 Forks: 0
 - 🧠 Major Language: Python
-- 🕒 Updated: 2026-11-05T04:25:01Z
+- 🕒 Updated: 2026-11-06T04:22:45Z
 - 🔗 URL: https://github.com/blairwizard/github-repo-analyser
 - Top Languages:
   - Python: 2332 bytes
@@ -59,6 +59,14 @@ Total repositories: 12
 - 🔗 URL: https://github.com/blairwizard/myshell
 - Top Languages:
   - C: 3012 bytes
+
+## os-proj
+- ⭐ Stars: 0
+- 🍴 Forks: 0
+- 🧠 Major Language: Not specified
+- 🕒 Updated: 2026-11-06T05:46:34Z
+- 🔗 URL: https://github.com/blairwizard/os-proj
+- Top Languages:
 
 ## raven
 - ⭐ Stars: 0
