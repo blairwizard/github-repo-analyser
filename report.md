@@ -2,6 +2,15 @@
 
 Total repositories: 13
 
+## 3d-figs
+- ⭐ Stars: 0
+- 🍴 Forks: 0
+- 🧠 Major Language: C
+- 🕒 Updated: 2026-11-12T09:06:02Z
+- 🔗 URL: https://github.com/blairwizard/3d-figs
+- Top Languages:
+  - C: 2510 bytes
+
 ## c-autograd
 - ⭐ Stars: 0
 - 🍴 Forks: 0
@@ -24,23 +33,10 @@ Total repositories: 13
 - ⭐ Stars: 1
 - 🍴 Forks: 0
 - 🧠 Major Language: Python
-- 🕒 Updated: 2026-11-11T04:53:40Z
+- 🕒 Updated: 2026-11-12T06:01:09Z
 - 🔗 URL: https://github.com/blairwizard/github-repo-analyser
 - Top Languages:
   - Python: 2332 bytes
-
-## leetcode
-- ⭐ Stars: 0
-- 🍴 Forks: 0
-- 🧠 Major Language: Not specified
-- 🕒 Updated: 2026-03-21T12:37:45Z
-- 🔗 URL: https://github.com/blairwizard/leetcode
-- Top Languages:
-  - Java: 3124444 bytes
-  - C++: 2853901 bytes
-  - Python: 2416015 bytes
-  - TypeScript: 2374971 bytes
-  - Go: 1886098 bytes
 
 ## mycalc
 - ⭐ Stars: 1
