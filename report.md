@@ -63,6 +63,8 @@ Total repositories: 13
 - 🕒 Updated: 2026-11-06T05:46:34Z
 - 🔗 URL: https://github.com/blairwizard/os-proj
 - Top Languages:
+  - documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting bytes
+  - message: API rate limit exceeded for 18.233.87.154. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.) bytes
 
 ## raven
 - ⭐ Stars: 0
@@ -71,7 +73,8 @@ Total repositories: 13
 - 🕒 Updated: 2026-09-13T06:37:37Z
 - 🔗 URL: https://github.com/blairwizard/raven
 - Top Languages:
-  - C: 30332 bytes
+  - documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting bytes
+  - message: API rate limit exceeded for 18.233.87.154. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.) bytes
 
 ## snake-pygame
 - ⭐ Stars: 0
@@ -80,7 +83,8 @@ Total repositories: 13
 - 🕒 Updated: 2026-03-09T04:19:44Z
 - 🔗 URL: https://github.com/blairwizard/snake-pygame
 - Top Languages:
-  - Python: 3178 bytes
+  - documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting bytes
+  - message: API rate limit exceeded for 18.233.87.154. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.) bytes
 
 ## sorting-visualizer
 - ⭐ Stars: 0
@@ -89,7 +93,8 @@ Total repositories: 13
 - 🕒 Updated: 2026-03-14T17:43:28Z
 - 🔗 URL: https://github.com/blairwizard/sorting-visualizer
 - Top Languages:
-  - Python: 5128 bytes
+  - documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting bytes
+  - message: API rate limit exceeded for 18.233.87.154. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.) bytes
 
 ## sysmon
 - ⭐ Stars: 0
@@ -98,7 +103,8 @@ Total repositories: 13
 - 🕒 Updated: 2026-11-11T04:31:12Z
 - 🔗 URL: https://github.com/blairwizard/sysmon
 - Top Languages:
-  - Shell: 2612 bytes
+  - documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting bytes
+  - message: API rate limit exceeded for 18.233.87.154. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.) bytes
 
 ## tokr-terminal-chatbot
 - ⭐ Stars: 0
@@ -107,7 +113,8 @@ Total repositories: 13
 - 🕒 Updated: 2026-03-21T06:31:54Z
 - 🔗 URL: https://github.com/blairwizard/tokr-terminal-chatbot
 - Top Languages:
-  - Python: 5159 bytes
+  - documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting bytes
+  - message: API rate limit exceeded for 18.233.87.154. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.) bytes
 
 ## XOR-FIle-Cipher
 - ⭐ Stars: 1
@@ -116,7 +123,8 @@ Total repositories: 13
 - 🕒 Updated: 2026-04-23T09:05:20Z
 - 🔗 URL: https://github.com/blairwizard/XOR-FIle-Cipher
 - Top Languages:
-  - C: 2141 bytes
+  - documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting bytes
+  - message: API rate limit exceeded for 18.233.87.154. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.) bytes
 
 
 # Summary
